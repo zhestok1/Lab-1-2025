@@ -1,4 +1,6 @@
-class MySecondClass {
+package myfirstpackage;
+
+public class MyFirstPackage {
     private int firstNumber;
     private int secondNumber;
 
@@ -19,7 +21,7 @@ class MySecondClass {
     }
 
     // Инициализация полей класса
-    public MySecondClass(int firstNumber, int secondNumber) {
+    public MyFirstPackage(int firstNumber, int secondNumber) {
         this.firstNumber = firstNumber;
         this.secondNumber = secondNumber;
     }
