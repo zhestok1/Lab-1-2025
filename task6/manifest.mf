@@ -1,10 +1,8 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Created-By: Петрухин Роман
-=======
-Created-By: Роман_Петрухин
->>>>>>> d2de357f42c165819b4592fc756ec6249e043e49
 Main-Class: MyFirstClass
+
+
 
 
 
