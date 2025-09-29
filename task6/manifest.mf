@@ -1,6 +1,8 @@
 Manifest-Version: 1.0
-Created-By: Ivanov_Ivan
+Created-By: Петрухин Роман
 Main-Class: MyFirstClass
+
+
 
 
 
